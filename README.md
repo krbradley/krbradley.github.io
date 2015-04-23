@@ -1,1 +1,0 @@
-# krbradley.github.io
