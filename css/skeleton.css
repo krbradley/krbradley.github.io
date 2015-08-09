@@ -2,8 +2,9 @@
 #header {
     background-color:#009999;
     color:#FFFFCC;
-    text-align:left;
-    padding:5px;
+    clear:both;
+    text-align:center;
+    padding:5px; 
 }
 #nav {
     line-height:30px;
