@@ -1,28 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 #header {
     background-color:#129793;
-    color:white;
+    color:#FFFFCC;
     text-align:left;
-    padding:5px; 
+    padding:5px;
 }
 #nav {
     line-height:30px;
-    background-color:#99CCCC;
+    background-color:#FF6666;
     height:300px;
     width:100px;
     float:left;
-    padding:5px; 
+    padding:5px;	      
 }
 #section {
+    background-color:#666666;
+    color:#white;
+    height:300px;
     width:350px;
     float:left;
-    padding:10px; 
+    padding:5px;	 	 
 }
+#aside {
+    line-height:30px;
+    background-color:#FF6666;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+
 #footer {
     background-color:#129793;
     color:#FFFFCC;
     clear:both;
     text-align:center;
-    padding:5px; 
+   padding:5px;	 	 
 }
 </style>
