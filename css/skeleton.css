@@ -5,22 +5,22 @@
 #header {
     background-color:#129793;
     color:#FFFFCC;
-    text-align:left;
+    text-align:center;
     padding:5px;
 }
 #nav {
     line-height:30px;
     background-color:#FF6666;
     height:600px;
-    width:200px;
+    width:300px;
     float:left;
     padding:5px;	      
 }
 #section {
-    background-color:#666666;
-    color:#white;
+    background-color:#505050;
+    color:#FFFFCC;
     height:600px;
-    width:350px;
+    width:700px;
     float:left;
     padding:5px;	 	 
 }
@@ -28,7 +28,7 @@
     line-height:30px;
     background-color:#FF6666;
     height:600px;
-    width:200px;
+    width:300px;
     float:left;
     padding:5px;	      
 }
