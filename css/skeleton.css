@@ -15,7 +15,7 @@
 #nav {
     line-height:30px;
     background-color:#97ccbb;
-    height:600;
+    height:600px;
     width:12%;
     float:left;
     padding:5px;	      
@@ -23,7 +23,7 @@
 #section {
     background-color:#adb5b3;
     color:black;
-    height:600;
+    height:600px;
     width:70%;
     float:left;
     padding:5px;	 	 
@@ -31,7 +31,7 @@
 #aside {
     line-height:30px;
     background-color:#97ccbb;
-    height:600;
+    height:600px;
     width:12%;
     float:left;
     padding:5px;	      
