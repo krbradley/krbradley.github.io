@@ -14,15 +14,15 @@
 }
 #nav {
     line-height:30px;
-    background-color:#FF6666;
+    background-color:#97ccbb;
     height:520px;
     width:200px;
     float:left;
     padding:5px;	      
 }
 #section {
-    background-color:#FFF5C3;
-    color:#666666;
+    background-color:#adb5b3;
+    color:#cc96a7;
     height:520px;
     width:800px;
     float:left;
@@ -30,7 +30,7 @@
 }
 #aside {
     line-height:30px;
-    background-color:#FF6666;
+    background-color:#97ccbb;
     height:520px;
     width:200px;
     float:left;
