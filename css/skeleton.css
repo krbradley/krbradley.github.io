@@ -1,5 +1,10 @@
 
 <style>
+#header-cont{
+    width:100%;
+    position:fixed;
+    top:0px;
+}
 
 #header {
     background-color:#129793;
