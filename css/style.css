@@ -20,6 +20,13 @@
     float:left;
     padding:5px;	      
 }
+#fullimage {
+    position:fixed;
+    top:0;
+    left:0;
+    min-width:100%;
+    min-height:auto;
+}
 #lightgreysect {
     line-height:30px;
     background-color:#F8FBFA;
