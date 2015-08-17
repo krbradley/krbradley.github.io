@@ -40,15 +40,17 @@
 #lightgreysect {
     line-height:30px;
     background-color:#F8FBFA;
+    color:black;
     height:600px;
-    float:left;
+    
     padding:5px;	      
 }
 #lightgreensect {
     line-height:30px;
     background-color:#ECF5F2;
+    color:black;
     height:600px;
-    float:left;
+   
     padding:5px;	      
 }
 #section {
