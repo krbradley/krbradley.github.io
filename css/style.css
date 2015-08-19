@@ -61,6 +61,10 @@
     float:left;
     padding:5px;	 	 
 }
+#para {
+    width:auto; 
+    word-wrap: break-word;
+}
 #aside {
     line-height:30px;
     background-color:#97ccbb;
