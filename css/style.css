@@ -53,6 +53,15 @@
    
     padding:5px;	      
 }
+
+#lightgreensectauto {
+    line-height:30px;
+    background-color:#ECF5F2;
+    color:black;
+    min-height:600px;
+   
+    padding:5px;	      
+}
 #section {
     background-color:#adb5b3;
     color:black;
