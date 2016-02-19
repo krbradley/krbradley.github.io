@@ -4,6 +4,8 @@ title: Women believe they lack interpersonal power in STEM fields
 cover: ironworks.jpg
 date:   2016-02-19 16:27:00
 categories: posts
+comments: true
+permalink: women-believe-they-lack-interpersonal-power
 ---
 
 According to Women in Science, Technology and Engineering (WISE), women are only 14.4% of the STEM workforce in England as of August 2015. In 13 out of 16 of the GCSE STEM (science, technology, engineering and math) topics, girls out performed boys. GCSE STEM is the equivalent of math and science for the SATs in the USA. From my personal experience, 20% of my peers, at an engineering college, were females. If women are outperforming men in STEM subjects, why are we not pursuing STEM careers?

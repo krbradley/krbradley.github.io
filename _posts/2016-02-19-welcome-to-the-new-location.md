@@ -4,6 +4,8 @@ title: Welcome to the new location
 cover: cover.jpg
 date:   2016-02-19 16:17:00
 categories: posts
+comments: true
+permalink: welcome-to-the-new-location
 ---
 
 ## Introducing my blogs new home!
