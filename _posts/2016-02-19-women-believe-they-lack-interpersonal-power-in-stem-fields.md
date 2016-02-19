@@ -6,6 +6,7 @@ date:   2016-02-19 16:27:00
 categories: posts
 comments: true
 permalink: women-believe-they-lack-interpersonal-power
+disqus_identifier: women-believe-they-lack-interpersonal-power
 ---
 
 According to Women in Science, Technology and Engineering (WISE), women are only 14.4% of the STEM workforce in England as of August 2015. In 13 out of 16 of the GCSE STEM (science, technology, engineering and math) topics, girls out performed boys. GCSE STEM is the equivalent of math and science for the SATs in the USA. From my personal experience, 20% of my peers, at an engineering college, were females. If women are outperforming men in STEM subjects, why are we not pursuing STEM careers?
@@ -21,3 +22,28 @@ What is the group dynamic?
 How do male and female groups communicate and respond to varying levels interpersonal power? 
 Who has the power of persuasion within co-ed groups?
 Please let me know if you have further questions or thoughts on my findings so far.
+
+
+<!--Add Disqus comments. -->
+<div id="disqus_thread"></div>
+<script>
+/**
+* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+*/
+
+var disqus_config = function () {
+this.page.url; // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = disqus_identifier; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//kishabradley.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

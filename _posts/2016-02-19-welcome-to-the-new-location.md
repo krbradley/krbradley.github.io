@@ -6,6 +6,7 @@ date:   2016-02-19 16:17:00
 categories: posts
 comments: true
 permalink: welcome-to-the-new-location
+disqus_identifier: welcome-to-the-new-location
 ---
 
 ## Introducing my blogs new home!
