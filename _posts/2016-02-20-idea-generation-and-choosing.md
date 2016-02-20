@@ -16,7 +16,9 @@ Every masterpiece starts somewhere. As much as I wish brilliance would just appe
 
 Ideas can be sourced from the news, current issues, heated arguments or even juicy gossip. If you need help getting into a creative mindset, this video has a few methods to get you started:
 
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/yAidvTKX6xM" width="480"></iframe>
+<div class="video-container">
+<iframe width="480" height="270" src="https://www.youtube.com/embed/yAidvTKX6xM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### My idea list:
 
