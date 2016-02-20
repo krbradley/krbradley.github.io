@@ -12,13 +12,13 @@ disqus_identifier: idea-generation-and-choosing
 
 Every masterpiece starts somewhere. As much as I wish brilliance would just appear, it doesn't. Crafting a dissertation is done in small steps (sometimes in the right direction, but mostly in the wrong). So where do we begin? We brainstorm, just like our third grade teachers taught us. This can be in lists, thought clouds or random thoughts placed conveniently wherever you are. I don't recommend the latter.
 
-##Idea generation
+## Idea generation
 
 Ideas can be sourced from the news, current issues, heated arguments or even juicy gossip. If you need help getting into a creative mindset, this video has a few methods to get you started:
 
 <iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/yAidvTKX6xM" width="480"></iframe>
 
-###My idea list:
+### My idea list:
 
 
 <ul style="text-align: left;">
@@ -33,7 +33,7 @@ Ideas can be sourced from the news, current issues, heated arguments or even jui
 
 I am interested in all of these topics to varying degrees. I needed to narrow my list down to one that I could tolerate and research for 6 months. 
 
-##Choosing a topic
+## Choosing a topic
 
 When deciding a topic, set some criteria such as:
 <ul style="text-align: left;">
@@ -48,7 +48,7 @@ From an initial search, I learned women hold roughly 15% of science, technology,
 
 If you are having trouble justifying how your topic will add value, look deeper into the comments on social media. Find articles and read what people are saying about the topic. This may not be a reliable and quotable source for your final dissertation, but it can help you understand the topic's importance.
 
-##Focus and be specific
+## Focus and be specific
 
 After much thought and deliberation, I am going to research the interpersonal power of women in engineering. In the process of deciding, I made my ideas more specific and relevant to my life. The more specific a topic, the more valuable the research will be. If I studied women in male dominated fields, I would have made a lot of assumptions about the workplaces and content. The workplace of an engineer and garbageman are not at all similar, but they are both male dominated fields. 
 
