@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Reasons Rihanna should have left foreplay out of the Brit Awards
+title: 4 Reasons Rihanna should have left grinding out of the Brit Awards
 cover: concert.jpg
 date:   2016-02-28 23:05:00
 categories: posts
@@ -16,7 +16,7 @@ Here are four of the many reasons Rihanna should have left her booty poppin’ m
 During the Brit Awards, the public was outraged by Adele’s choice of words during her thank you speech. The online version of the show made up for the error by muting portions of her speech including “profanity.” Adele’s cussing was condemned under the watershed time of 9pm. Rihanna’s artful approach to foreplay happened shortly after the watershed period began. Rihanna’s bumping and grinding with Drake was inadvertently chosen as the lesser of two evils when the Brit Awards apologised for [Adele’s profanity](https://youtu.be/sMGr3N6KoTQ) slipping through before the “bleep man” could catch it.
 
 ## 2. Art is no excuse for forcing the bump and grind
-Art sells, but so does sex. Dancing is art. Regardless if we argue for or against bumping and grinding as art, Rihanna forced it. The entire performance flirted with the line of hip hop dance and risqué. Then Drake appears and for the last few seconds, she rubs her backside against his package. What artistic message was Rihanna sending? I argue, this last minute addition of foreplay was not art. 
+Art sells, but so does sex. Dancing is art. Regardless if we argue for or against bumping and grinding as art, Rihanna forced it. The entire performance flirted with the line of hip hop dance and risqué. Then Drake appears and for the last few seconds, she rubs her backside against his package. What artistic message was Rihanna sending? I argue, this last minute addition of grinding was not art. 
 
 ![Rihanna](/images/rihanna.jpg)
 
