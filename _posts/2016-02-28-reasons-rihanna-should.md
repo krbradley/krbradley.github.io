@@ -8,7 +8,7 @@ comments: true
 permalink: reasons-rihanna-should
 disqus_identifier: reasons-rihanna-should
 ---
-Rihanna shook her tush and Adele cried thanks with profanity. The public and Brit Awards deemed Adele’s choice of words as offensive. Some argued Rihanna was expressing her artistic right and being the face of female liberation. The family programme sent a clear message that foreplay in the form of dance is okay for mainstream television. If you missed Rihanna’s performance, you can find it [here](https://www.youtube.com/SQWqksdE4gw?t=209).
+Rihanna shook her tush and Adele cried thanks with profanity. The public and Brit Awards deemed Adele’s choice of words as offensive. Some argued Rihanna was expressing her artistic right and being the face of female liberation. The family programme sent a clear message that foreplay in the form of dance is okay for mainstream television. If you missed Rihanna’s performance, you can find it [here](https://youtu.be/SQWqksdE4gw?t=3m30s).
 
 Here are four of the many reasons Rihanna should have left her booty poppin’ moves out of the Brit Awards:
 
