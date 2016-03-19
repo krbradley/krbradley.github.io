@@ -220,6 +220,12 @@ a:hover {
   background-color: #333;
 }
 
+#cat {
+  width:100px;
+  height:100px;
+  float:left;
+}
+
 /*****************************************************************************/
 /*
 /* Sidebar and Content

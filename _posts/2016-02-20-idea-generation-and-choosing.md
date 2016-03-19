@@ -33,7 +33,7 @@ Ideas can be sourced from the news, current issues, heated arguments or even jui
 <li>Encouraging idea generation across departments at universities</li>
 </ul>
 
-I am interested in all of these topics to varying degrees. I needed to narrow my list down to one that I could tolerate and research for 6 months. 
+I am interested in all of these topics to varying degrees. I needed to narrow my list down to one that I could tolerate and research for 6 months.
 
 ## Choosing a topic
 
@@ -46,13 +46,13 @@ When deciding a topic, set some criteria such as:
 
 Conducting a basic preliminary search is beneficial. This can be as simple as searching the web for current news or popular trends on social media. If people are talking about it, then it is probably controversial and needs some hard research. Gender equality and the lack of women in science, technology, engineering and mathematics (STEM) is constantly the topic of debates on social media and in the news.
 
-From an initial search, I learned women hold roughly 15% of science, technology, engineering and mathematics (STEM) jobs, and many who begin in STEM often leave. This idea is important to society as firms aim to increase diversity. My research has the potential to explain the dynamics of teams in STEM fields and why women are leaving. I could give employers insight on how to make their workplace co-ed friendly. 
+From an initial search, I learned women hold roughly 15% of science, technology, engineering and mathematics (STEM) jobs, and many who begin in STEM often leave. This idea is important to society as firms aim to increase diversity. My research has the potential to explain the dynamics of teams in STEM fields and why women are leaving. I could give employers insight on how to make their workplace co-ed friendly.
 
 If you are having trouble justifying how your topic will add value, look deeper into the comments on social media. Find articles and read what people are saying about the topic. This may not be a reliable and quotable source for your final dissertation, but it can help you understand the topic's importance.
 
 ## Focus and be specific
 
-After much thought and deliberation, I am going to research the interpersonal power of women in engineering. In the process of deciding, I made my ideas more specific and relevant to my life. The more specific a topic, the more valuable the research will be. If I studied women in male dominated fields, I would have made a lot of assumptions about the workplaces and content. The workplace of an engineer and garbageman are not at all similar, but they are both male dominated fields. 
+After much thought and deliberation, I am going to research the interpersonal power of women in engineering. In the process of deciding, I made my ideas more specific and relevant to my life. The more specific a topic, the more valuable the research will be. If I studied women in male dominated fields, I would have made a lot of assumptions about the workplaces and content. The workplace of an engineer and garbageman are not at all similar, but they are both male dominated fields.
 
 I have myself a winner...I think.
 

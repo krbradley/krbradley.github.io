@@ -1,0 +1,35 @@
+<style>
+    #browser { padding: 20px; }
+    img { width: 100px; height: 100px; float: left; }
+    button {
+      background: #787878;
+      color: white;
+      padding: 10px;
+    }
+    h1 {
+      color: #218C8D;
+    }
+    body {
+      color: #4a4a4a;
+      background-color: #fafbfc;
+      font-family: 'Raleway', Arial, sans-serif;
+      font-weight: 400;
+      font-size: 0.85em;
+      overflow: hidden;
+    }
+</style>
+
+<h1>ALL THE CATS</h1>
+
+<button>Give me a cat</button>
+
+<div id="cats"></div>
+
+<script>
+    var catURL = 'http://thecatapi.com/api/images/get?format=src&type=gif';
+    $('button').click(function() {
+        $('#cats').append(
+            $('<img/>').attr('src', catURL + '&' + new Date().getTime())
+        );
+    })
+</script>
