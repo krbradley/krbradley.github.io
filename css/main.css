@@ -106,8 +106,9 @@ a:hover {
 .footer {
   font-size: 0.95em;
   border-top: 1px solid #e7e7e7;
+  margin-top: 1em;
   padding-top: 1.25em;
-  padding-bottom: 1.5em;
+  padding-bottom: 0.75em;
   overflow: hidden;
   float: center;
   text-align: center;
@@ -244,7 +245,7 @@ a:hover {
 .sidebar {
   float: left;
   width: 14%;
-  padding-left: 11em;
+  padding-left: 9em;
   padding-right: 2.125em;
   border-right: 1px solid #e7e7e7;
 }
